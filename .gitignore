@@ -1,0 +1,16 @@
+.DS_Store
+
+*.o
+*.obj
+*.elf
+*.ko
+
+*.lib
+*.a
+
+*.dll
+*.so
+*.so.*
+*.dylib
+
+*.swp
