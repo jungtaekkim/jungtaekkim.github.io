@@ -14,3 +14,6 @@
 *.dylib
 
 *.swp
+
+sharing/
+sharing/*
