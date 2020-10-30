@@ -2,29 +2,17 @@
 <html>
     <head>
         <title>JUNGTAEK KIM</title>
-        <style>
-            .GeneralList
-            {
-                line-height: 120%;
-                font-size: 100%;
-            }
-
-            a, a:visited
-            {
-                color: #5DADE2;
-                text-decoration: none;
-            }
-        </style>
+        <link rel="stylesheet" type="text/css" href="mystyle.css">
     </head>
 
-    <body style="font-family: Helvetica; color: #434649;">
-        <div style="width: 70%; max-width: 1000px; margin: 10px auto;">
+    <body>
+        <div id="centerized-block">
             <table style="width: 100%;">
                 <tr>
                     <td style="width: 75%;">
-                        <h1>JUNGTAEK KIM</h1>
-                        <h3>Ph.D. Student<br>of Computer Science and Engineering</h3>
-                        <h3><a href="cv/cv_jungtaek_kim.pdf" target="_blank">Curriculum Vitae</a></h3>
+                        <p class="paragraph-200-bold">JUNGTAEK KIM</p>
+                        <p class="paragraph-120-bold">Ph.D. Student<br>of Computer Science and Engineering</p>
+			<p class="paragraph-120-bold"><a href="cv/cv_jungtaek_kim.pdf" target="_blank">Curriculum Vitae</a></p>
                     </td>
                     <td style="width: 25%;">
                         <img src="img/2018_06_12_seongnam_naver_techtalk_me.png" width="100%">
@@ -33,9 +21,11 @@
             </table>
 
             <hr>
-            <h3>NEWS</h3>
+            <p class="paragraph-120-bold">NEWS</p>
 
-            <ul class="GeneralList" style="list-style: none; margin-left: -30px;">
+            <ul class="general-list no-bullet-list">
+                <li>[October 2020] My work "<a href="" target="_blank">Fragment Relation Networks for Geometric Shape Assembly</a>" has been accepted at <a href="https://sites.google.com/view/lmca2020/home" target="_blank">Learning Meets Combinatorial Algorithms Workshop at NeurIPS (LMCA-2020)</a>.</li>
+                <li>[October 2020] I am serving as a program committee member for <a href="http://auai.org/~w-auai/uai2021/" target="_blank">UAI-2021</a>.</li>
                 <li>[October 2020] I will start working as a (remote) research intern at <a href="https://vectorinstitute.ai" target="_blank">the Vector Institute</a> under the supervision of <a href="https://www.gwtaylor.ca" target="_blank">Dr. Graham Taylor</a>.</li>
                 <li>[October 2020] I am serving as a reviewer for <a href="http://aistats.org/aistats2021/index.html" target="_blank">AISTATS-2021</a>.</li>
                 <li>[September 2020] The recent work "<a href="https://arxiv.org/abs/2008.02956" target="_blank">Bootstrapping neural processes</a>" has been accepted at <a href="https://neurips.cc/Conferences/2020" target="_blank">NeurIPS-2020</a>.</li>
@@ -44,10 +34,12 @@
                 <li>[June 2020] The paper "<a href="https://arxiv.org/abs/1901.08350" target="_blank">On local optimizers of acquisition functions in Bayesian optimization</a>" has been accepted at <a href="https://ecmlpkdd2020.net" target="_blank">ECML-PKDD-2020</a>.</li>
             </ul>
 
+            <p class="paragraph-100 show-more"><a href="" target="_blank">Show more</a></p>
+
             <hr>
 
-            <h3>EDUCATION</h3>
-            <table style="width: 100%;">
+            <p class="paragraph-120-bold">EDUCATION</p>
+            <table class="general-table">
                 <tr>
                     <td style="width: 20%;">Mar 01, 2015<br>- Present</td>
                     <td style="width: 80%;">Ph.D. Course in Computer Science and Engineering, POSTECH<br>(Advisor: <a href="http://mlg.postech.ac.kr/~seungjin" target="_blank">Dr. Seungjin Choi</a> and <a href="http://cvlab.postech.ac.kr/~mcho/" target="_blank">Dr. Minsu Cho</a>)</td>
@@ -63,22 +55,22 @@
 
             </table>
             
-            <h3>CURRENT RESEARCH INTERESTS</h3>
-            <ul class="GeneralList">
+            <p class="paragraph-120-bold">CURRENT RESEARCH INTERESTS</p>
+            <ul class="general-list">
                 <li>Automation of Machine Learning</li>
                 <li>Hyperparameter Optimization</li>
                 <li>Bayesian Optimization</li>
             </ul>
 
-            <h3>WORK EXPERIENCES</h3>
-            <table style="width: 100%;">
+            <p class="paragraph-120-bold">WORK EXPERIENCES</p>
+            <table class="general-table">
                 <tr>
                     <td style="width: 20%;">Oct 30, 2020<br>- Present</td>
                     <td style="width: 80%;">Research Intern, <a href="https://vectorinstitute.ai" target="_blank">Vector Institute</a> / Remote Research</td>
                 </tr>
                 <tr>
-                    <td style="width: 20%;">Jan 02, 2018<br>- Apr 27, 2018</td>
-                    <td style="width: 80%;">Research Engineering Intern, <a href="http://www.sigopt.com/" target="_blank">SigOpt Inc.</a> / San Francisco, USA</td>
+                    <td>Jan 02, 2018<br>- Apr 27, 2018</td>
+                    <td>Research Engineering Intern, <a href="http://www.sigopt.com/" target="_blank">SigOpt Inc.</a> / San Francisco, USA</td>
                 </tr>
                 <tr>
                     <td>Oct 30, 2017<br>- Dec 29, 2017</td>
@@ -102,35 +94,35 @@
                 </tr>
             </table>
 
-            <h3>PUBLICATIONS</h3>
-                <h4><a href="publications.html" target="_blank">Complete List</a></h4>
-                <h4><a href="publications_categorized.html" target="_blank">Conference / Workshop Papers</a></h4>
-                <h4>Work-in-Progress</h4>
-                <ul class="GeneralList">
+            <p class="paragraph-120-bold">PUBLICATIONS</p>
+                <p class="paragraph-100-bold"><a href="publications.html" target="_blank">Complete List</a></p>
+                <p class="paragraph-100-bold"><a href="publications_categorized.html" target="_blank">Conference / Workshop Papers</a></p>
+                <p class="paragraph-100-bold">Work-in-Progress</p>
+                <ul class="general-list">
                     <li><span style="font-weight: bold;">Jungtaek Kim</span>, Hyunsoo Chung, Minsu Cho, and Jaesik Park. <a href="https://arxiv.org/abs/2004.07414">Combinatorial 3D Shape Generation via Sequential Assembly</a>. arXiv:2004.07414, April 16, 2020.</li>
                     <li><span style="font-weight: bold;">Jungtaek Kim</span>, Michael McCourt, Tackgeun You, Saehoon Kim, and Seungjin Choi. <a href="https://arxiv.org/abs/1905.09780">Practical Bayesian Optimization over Sets</a>. arXiv:1905.09780, May 23, 2019.</li>
                 </ul>
 
-            <h3>AWARDS & HONOR</h3>
-            <table style="width: 100%;">
+            <p class="paragraph-120-bold">AWARDS & HONOR</p>
+            <table class="general-table">
                 <tr>
                     <td style="width: 20%;">Jun 09, 2019</td>
                     <td style="width: 80%;">ICML Travel Award for ICML-2019</td>
                 </tr>
 
                 <tr>
-                    <td style="width: 20%;">Jun 06, 2018</td>
-                    <td style="width: 80%;">2nd place in AutoML Challenge 2018 (PAKDD-2018 Data Competition)</td>
+                    <td>Jun 06, 2018</td>
+                    <td>2nd place in AutoML Challenge 2018 (PAKDD-2018 Data Competition)</td>
                 </tr>
 
                 <tr>
-                    <td style="width: 20%;">Apr 15, 2018</td>
-                    <td style="width: 80%;">IEEE Signal Processing Society Travel Grant for ICASSP-2018</td>
+                    <td>Apr 15, 2018</td>
+                    <td>IEEE Signal Processing Society Travel Grant for ICASSP-2018</td>
                 </tr>
 
                 <tr>
-                    <td style="width: 20%;">Nov 18, 2016</td>
-                    <td style="width: 80%;">Best paper runner-up award for LG U+ in 2016 Fall Conference of Korea Business Intelligence Data Mining Society</td>
+                    <td>Nov 18, 2016</td>
+                    <td>Best paper runner-up award for LG U+ in 2016 Fall Conference of Korea Business Intelligence Data Mining Society</td>
                 </tr>
                 <tr>
                     <td>Jun 24, 2016</td>
@@ -146,21 +138,21 @@
                 </tr>
             </table>
 
-            <h3>PROFESSIONAL SERVICES</h3>
-            <ul class="GeneralList">
+            <p class="paragraph-120-bold">PROFESSIONAL SERVICES</p>
+            <ul class="general-list">
                 <li><a href="committees.html" target="_blank">Program Committee Members / Reviewers</a></li>
                 <li><a href="talks.html" target="_blank">Invited Talks / Non-Peer Reviewed Presentations</a></li>
             </ul>
 
-            <h3>TEACHING</h3>
+            <p class="paragraph-120-bold">TEACHING</p>
 
-            <h4>Teaching Assistant</h4>
-            <ul class="GeneralList">
+            <p class="paragraph-100-bold">Teaching Assistant</p>
+            <ul class="general-list">
                 <li>Artificial Intelligence (Spring 2019), Probabilistic Graphical Models (Fall 2018), Machine Learning Course for Industries (SK Hynix (Summer 2020, Spring 2019, Fall 2018), Samsung Electronics Device Solutions Business (Fall 2017, Summer 2017), POSCO Group (Summer 2019, Summer 2017, Spring 2017)), Automata & Formal Languages (Fall 2016), Machine Learning (Spring 2016)</li>
             </ul>
 
-            <h3><a href="archives.html" target="_blank">ARCHIVES</a></h3>
-            <ul class="GeneralList">
+            <p class="paragraph-120-bold"><a href="archives.html" target="_blank">ARCHIVES</a></p>
+            <ul class="general-list">
                 <li>Curriculum Vitae</li>
                 <li>Papers</li>
                 <li>Research Topics</li>
@@ -169,23 +161,25 @@
                 <li>Assets</li>
             </ul>
 
-            <h3>ELSEWHERE</h3>
-            <ul class="GeneralList">
+            <p class="paragraph-120-bold">ELSEWHERE</p>
+            <ul class="general-list">
                 <li>Academic Profile: <a href="https://scholar.google.com/citations?user=KXNUYWgAAAAJ&hl=en" target="_blank">Google Scholar</a>, <a href="https://dblp.org/pid/31/3193" target="_blank">DBLP</a>, <a href="https://www.semanticscholar.org/author/2629559" target="_blank">Semantic Scholar</a>, <a href="https://orcid.org/0000-0002-1905-1399" target="_blank">ORCID</a></li>
                 <li>Social Network: <a href="http://www.linkedin.com/in/jungtaekkim" target="_blank">LinkedIn</a>, <a href="https://twitter.com/jungtaek_kim" target="_blank">Twitter</a></li>
                 <li>Development: <a href="https://www.github.com/jungtaekkim" target="_blank">GitHub</a></li>
-            </ul>	
+            </ul>
 
-            <h3>RELATED LINKS</h3>
-            <ul class="GeneralList">
+            <p class="paragraph-120-bold">RELATED LINKS</p>
+            <ul class="general-list">
                 <li><a href="http://www.postech.ac.kr" target="_blank">POSTECH</a></li>
                 <li><a href="http://cse.postech.ac.kr" target="_blank">Department of Computer Science and Engineering @ POSTECH</a></li>
                 <li><a href="http://mlg.postech.ac.kr" target="_blank">Machine Learning Group @ POSTECH</a></li>
             </ul>
 
-            <p>Last updated: October 9, 2020</p>
+            <p class="paragraph-100">Last updated: October 9, 2020</p>
+
             <hr>
-            <table style="width: 100%;">
+
+            <table class="general-table">
                 <tr>
                     <td style="width: 20%;">ADDRESS</td>
                     <td style="width: 80%;">Department of Computer Science and Engineering,<br>Pohang University of Science and Technology (POSTECH),<br>77 Cheongam-ro, Nam-gu, Pohang-si 37673,<br>Gyeongsangbuk-do, Republic of Korea<td>

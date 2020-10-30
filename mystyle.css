@@ -1,0 +1,75 @@
+/* element */
+body
+{
+    font-family: Helvetica;
+    font-size: 62.5%;
+    color: #434649;
+    -webkit-text-size-adjust: 100%;
+}
+
+a, a:visited
+{
+    color: #5DADE2;
+    text-decoration: none;
+}
+
+/* id */
+#centerized-block
+{
+    width: 80%;
+    max-width: 1000px;
+    margin: 10px auto;
+}
+
+/* class */
+.general-list
+{
+    line-height: 125%;
+    font-size: 1.6em;
+}
+
+.no-bullet-list
+{
+    list-style: none;
+    margin-left: -30px;
+}
+
+.general-table
+{
+    width: 100%;
+    font-size: 1.6em;
+}
+
+.show-more
+{
+    text-align: left;
+    margin-left: 10px;
+}
+
+.paragraph-200-bold
+{
+    font-size: 3.2em;
+    font-weight: bold;
+}
+
+.paragraph-120-bold
+{
+    font-size: 1.9em;
+    font-weight: bold;
+}
+
+.paragraph-120
+{
+    font-size: 1.9em;
+}
+
+.paragraph-100-bold
+{
+    font-size: 1.6em;
+    font-weight: bold;
+}
+
+.paragraph-100
+{
+    font-size: 1.6em;
+}
