@@ -9,7 +9,8 @@ body
 
 a, a:visited
 {
-    color: #5DADE2;
+/*    color: #5DADE2;*/
+    color: #c82424;
     text-decoration: none;
 }
 
