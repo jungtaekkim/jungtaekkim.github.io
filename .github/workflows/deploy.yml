@@ -3,11 +3,9 @@ name: deploy
 on:
   push:
     branches:
-      - master
       - main
   pull_request:
     branches:
-      - master
       - main
   workflow_dispatch:
 
@@ -34,4 +32,3 @@ jobs:
       uses: JamesIves/github-pages-deploy-action@v4
       with:
         folder: _site
-
