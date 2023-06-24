@@ -10,15 +10,11 @@ profile:
   image_circular: false # crops the image to make it circular
   address: >
     <p>3700 O'Hara St</p>
-    <p>Pittsburgh, Pennsylvania 15261</p>
+    <p>Pittsburgh, PA 15261</p>
     <p>United States</p>
 
-news: true  # includes a list of news items
-social: true  # includes social icons at the bottom of the page
+news: true
+social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Jungtaek Kim is a postdoctoral associate at the University of Pittsburgh, working as a member of the Center for Materials Data Science for Reliability and Degradation. At the University of Pittsburgh, he works with Prof. Paul W. Leu, Prof. Satish Iyengar, Prof. Lucas Mentch, and Prof. Oliver Hinder. Before that, he was a postdoctoral researcher at POSTECH, in the group of Prof. Minsu Cho. He received B.S. in Mechanical Engineering and Computer Science and Engineering from POSTECH in 2015, and Ph.D. in Computer Science and Engineering from POSTECH in 2022, under the supervision of Prof. Seungjin Choi and Prof. Minsu Cho. He interned at Vector Institute and SigOpt (acquired by Intel), during his Ph.D. program. His internship at Vector Institute was carried out under the supervision of Prof. Graham W. Taylor and he worked with Dr. Michael McCourt at SigOpt. He presented his work as the first author or a co-author, at the top-tier machine learning conferences such as NeurIPS, AISTATS, UAI, ICML, and ICLR, and moreover he served as a program committee member or a reviewer for diverse machine learning conferences such as NeurIPS, ICML, AISTATS, UAI, and ICLR. His main research interests are statistical machine learning, Bayesian optimization, and sequential assembly.
