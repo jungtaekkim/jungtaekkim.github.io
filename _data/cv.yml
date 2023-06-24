@@ -69,7 +69,7 @@
         - 3rd place in AutoML5 phase of AutoML Challenge
     - year: Jul 03, 2014
       items: 
-        - Software Maestro (organized by Ministry of Science, ICT and Future Planning, Republic of Korea & National IT Promotion Agency, Republic of Korea)
+        - Software Maestro (organized by Ministry of Science, ICT and Future Planning, Republic of Korea "&" National IT Promotion Agency, Republic of Korea)
     - year: Mar 02, 2010
       items: 
         - Presidential Science Scholarship (awarded by the President of the Republic of Korea)
@@ -88,7 +88,7 @@
     - name: Fall 2018
       value: Probabilistic Graphical Models "@" POSTECH
     - name: Fall 2016
-      value: Automata & Formal Languages "@" POSTECH
+      value: Automata "&" Formal Languages "@" POSTECH
     - name: Spring 2016
       value: Machine Learning "@" POSTECH
     - name: Several terms
