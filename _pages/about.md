@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Postdoctoral Associate "@" the University of Pittsburgh
+subtitle: Postdoctoral Associate @ the University of Pittsburgh
 
 profile:
   align: right
