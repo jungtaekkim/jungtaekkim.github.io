@@ -54,42 +54,42 @@
   contents:
     - year: Jun 09, 2019
       items:
-        - ICML Travel Award for ICML-2019
+        - "ICML Travel Award for ICML-2019"
     - year: Jun 06, 2018
       items:
-        - 2nd place in AutoML Challenge 2018 (PAKDD-2018 Data Competition)
+        - "2nd place in AutoML Challenge 2018 (PAKDD-2018 Data Competition)"
     - year: Apr 15, 2018
       items:
-        - IEEE Signal Processing Society Travel Grant for ICASSP-2018
+        - "IEEE Signal Processing Society Travel Grant for ICASSP-2018"
     - year: Nov 18, 2016
       items:
-        - Best Paper Runner-Up Award (supported by LG U+) in 2016 Fall Conference of Korea Business Intelligence Data Mining Society
+        - "Best Paper Runner-Up Award (supported by LG U+) in 2016 Fall Conference of Korea Business Intelligence Data Mining Society"
     - year: Jun 24, 2016
       items:
-        - 3rd place in AutoML5 phase of AutoML Challenge
+        - "3rd place in AutoML5 phase of AutoML Challenge"
     - year: Jul 03, 2014
       items: 
-        - Software Maestro (organized by Ministry of Science, ICT and Future Planning, Republic of Korea "&" National IT Promotion Agency, Republic of Korea)
+        - "Software Maestro (organized by Ministry of Science, ICT and Future Planning, Republic of Korea & National IT Promotion Agency, Republic of Korea)"
     - year: Mar 02, 2010
       items: 
-        - Presidential Science Scholarship (awarded by the President of the Republic of Korea)
+        - "Presidential Science Scholarship (awarded by the President of the Republic of Korea)"
 
 - title: Teaching (Course)
   type: map
   contents:
     - name: Spring 2022
-      value: "[CSED490X]" Recent Trends in Machine Learning: A Large-Scale Perspective "@" POSTECH
+      value: "[CSED490X] Recent Trends in Machine Learning: A Large-Scale Perspective @ POSTECH"
 
 - title: Teaching (Teaching Assistant)
   type: map
   contents:
     - name: Spring 2019
-      value: Artificial Intelligence "@" POSTECH
+      value: "Artificial Intelligence @ POSTECH"
     - name: Fall 2018
-      value: Probabilistic Graphical Models "@" POSTECH
+      value: "Probabilistic Graphical Models @ POSTECH"
     - name: Fall 2016
-      value: Automata "&" Formal Languages "@" POSTECH
+      value: "Automata & Formal Languages @ POSTECH"
     - name: Spring 2016
-      value: Machine Learning "@" POSTECH
+      value: "Machine Learning @ POSTECH"
     - name: Several terms
-      value: Machine Learning Courses for Industries (SK Hynix, Samsung Electronics Device Solutions Business, POSCO Group, Hyundai Steel Company)
+      value: "Machine Learning Courses for Industries (SK Hynix, Samsung Electronics Device Solutions Business, POSCO Group, Hyundai Steel Company)"
