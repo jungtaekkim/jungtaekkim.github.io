@@ -6,12 +6,12 @@ subtitle: Postdoctoral Associate @ the University of Pittsburgh
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>3700 O'Hara St</p>
+    <p>Pittsburgh, Pennsylvania 15261</p>
+    <p>United States</p>
 
 news: true  # includes a list of news items
 social: true  # includes social icons at the bottom of the page
