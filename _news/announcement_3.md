@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2023-05-01 12:00:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+My new paper "<a href="https://arxiv.org/abs/2305.15612" target="_blank">Density Ratio Estimation-based Bayesian Optimization with Semi-Supervised Learning</a>" is available at arXiv now.
