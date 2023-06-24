@@ -17,4 +17,6 @@ news: true
 social: true
 ---
 
-Jungtaek Kim is a postdoctoral associate at the University of Pittsburgh, working as a member of the Center for Materials Data Science for Reliability and Degradation. At the University of Pittsburgh, he works with Prof. Paul W. Leu, Prof. Satish Iyengar, Prof. Lucas Mentch, and Prof. Oliver Hinder. He received B.S. in Mechanical Engineering and Computer Science and Engineering from POSTECH in 2015, and Ph.D. in Computer Science and Engineering from POSTECH in 2022, under the supervision of Prof. Seungjin Choi and Prof. Minsu Cho.
+Jungtaek Kim is a postdoctoral associate at the University of Pittsburgh, working with Prof. Paul W. Leu, Prof. Satish Iyengar, Prof. Lucas Mentch, and Prof. Oliver Hinder.
+
+He received B.S. in Mechanical Engineering and Computer Science and Engineering from POSTECH in 2015, and Ph.D. in Computer Science and Engineering from POSTECH in 2022, under the supervision of Prof. Seungjin Choi and Prof. Minsu Cho.
