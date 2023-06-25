@@ -1,23 +1,67 @@
+@string{aaai = "Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)"}
+@string{icassp = "Proceedings of the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)"}
+
 @string{icmlw-automl = "International Conference on Machine Learning Workshop on Automatic Machine Learning (AutoML)"}
 @string{icmlw-automated = "International Conference on Machine Learning Workshop on Automated Machine Learning (AutoML)"}
+@string{neuripsw-bo = "Neural Information Processing Systems Workshop on Bayesian Optimization (BayesOpt)"}
 
+@string{longbeach-usa = "Long Beach, California, USA"}
+@string{neworleans-usa = "New Orleans, Louisiana, USA"}
 @string{newyork-usa = "New York, New York, USA"}
 
+@string{venue-aaai-2018 = neworleans-usa}
 @string{venue-icml-2016 = newyork-usa}
+@string{venue-neurips-2017 = longbeach-usa}
 
 @inproceedings{KimJ2016automl,
-	title="{AutoML} {Challenge}: {AutoML} Framework Using Random Space Partitioning Optimizer",
-	author="Jungtaek Kim and Jongheon Jeong and Seungjin Choi",
-	booktitle=icmlw-automl,
-	year=2016,
-	address=venue-icml-2016
+    bibtex_show="true",
+    abbr="ICML Workshop",
+    pdf=""
+    title="{AutoML} {Challenge}: {AutoML} Framework Using Random Space Partitioning Optimizer",
+    author="Jungtaek Kim and Jongheon Jeong and Seungjin Choi",
+    booktitle=icmlw-automl,
+    year=2016,
+    address=venue-icml-2016
 }
 
 @article{KimJ2017arxiv,
-	title="Learning to Warm-Start {Bayesian} Hyperparameter Optimization",
-	author="Jungtaek Kim and Saehoon Kim and Seungjin Choi",
-	journal="{arXiv} preprint {arXiv}:1710.06219",
-	year=2017
+    bibtex_show={true},
+    title="Learning to Warm-Start {Bayesian} Hyperparameter Optimization",
+    author="Jungtaek Kim and Saehoon Kim and Seungjin Choi",
+    journal="{arXiv} preprint {arXiv}:1710.06219",
+    year=2017
+}
+
+@inproceedings{KimJ2017bayesopt,
+    bibtex_show="true",
+    abbr="NeurIPS Workshop",
+    title="Learning to Transfer Initializations for {Bayesian} Hyperparameter Optimization",
+    author="Jungtaek Kim and Saehoon Kim and Seungjin Choi",
+    booktitle=neuripsw-bo,
+    year=2017,
+    address=venue-neurips-2017
+}
+
+@inproceedings{KimS2018aaai,
+    bibtex_show="true",
+    abbr="AAAI",
+    author="Saehoon Kim and Jungtaek Kim and Seungjin Choi",
+    title="On the Optimal Bit Complexity of Circulant Binary Embedding",
+    booktitle=aaai,
+    pages="3423--3430",
+    address=venue-aaai-2018,
+    year=2018
+}
+
+@inproceedings{KimJ2018icassp,
+    bibtex_show="true",
+    abbr="ICASSP",
+    author="Jungtaek Kim and Seungjin Choi",
+    title="Clustering-Guided {GP-UCB} for {Bayesian} Optimization",
+    booktitle=icassp,
+    pages="2461--2465",
+    address="Calgary, Alberta, Canada",
+    year=2018
 }
 
 @book{einstein1956investigations,
@@ -60,11 +104,5 @@
   journal={Ann. Phys.},
   volume={17},
   pages={549--560},
-  year={1905}
-}
-
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
   year={1905}
 }

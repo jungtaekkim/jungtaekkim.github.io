@@ -3,7 +3,7 @@ layout: page
 permalink: /publications/
 title: Publications
 description:
-years: [1967, 1956, 1950, 1935, 1905, 2016, 2017]
+years: [2018, 2017, 2016, 1967, 1956, 1950, 1935, 1905]
 nav: true
 nav_order: 2
 ---
