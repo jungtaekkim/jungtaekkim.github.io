@@ -3,10 +3,12 @@ github_users:
   - alshedivat
 
 github_repos:
+  - jungtaekkim/bayeso
+  - jungtaekkim/bayeso-benchmarks
+  - jungtaekkim/batch-bayeso
+  - POSTECH-CVLab/Combinatorial-3D-Shape-Generation
   - alshedivat/al-folio
   - twbs/bootstrap
   - jekyll/jekyll
   - jquery/jquery
   - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
