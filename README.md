@@ -1,7 +1,7 @@
 # jungtaekkim.github.io
 
 This repository is based on [al-folio](https://github.com/alshedivat/al-folio).
-It is hosted at [jungtaekkim.github.io](jungtaekkim.github.io) using the GitHub Pages.
+It is hosted at [jungtaekkim.github.io](https://jungtaekkim.github.io) using the GitHub Pages.
 
 The theme of al-folio is licensed under the terms of the [MIT License](LICENSE).
 
