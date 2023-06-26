@@ -1,4 +1,5 @@
 @string{aaai = "Proceedings of the AAAI Conference on Artificial Intelligence (AAAI)"}
+@string{ecmlpkdd = "Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML-PKDD)"}
 @string{icassp = "Proceedings of the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP)"}
 @string{icml = "Proceedings of the International Conference on Machine Learning (ICML)"}
 @string{neurips = "Advances in Neural Information Processing Systems (NeurIPS)"}
@@ -8,6 +9,8 @@
 @string{icmlw-automl = "International Conference on Machine Learning Workshop on Automatic Machine Learning (AutoML)"}
 @string{icmlw-automated = "International Conference on Machine Learning Workshop on Automated Machine Learning (AutoML)"}
 @string{neuripsw-bo = "Neural Information Processing Systems Workshop on Bayesian Optimization (BayesOpt)"}
+@string{neuripsw-ml4eng = "Neural Information Processing Systems Workshop on Machine Learning for Engineering Modeling, Simulation, and Design (ML4Eng)"}
+@string{neuripsw-lmca = "Neural Information Processing Systems Workshop on Learning Meets Combinatorial Algorithms (LMCA)"}
 
 @string{venue-virtual = "Virtual"}
 
@@ -24,6 +27,7 @@
 @string{venue-neurips-2017 = longbeach-usa}
 @string{venue-neurips-2018 = montreal-canada}
 @string{venue-neurips-2020 = venue-virtual}
+@string{venue-neurips-2021 = venue-virtual}
 
 @string{icmlw = "ICML-W"}
 @string{neuripsw = "NeurIPS-W"}
@@ -151,6 +155,18 @@
     address=venue-icml-2019
 }
 
+@inproceedings{KimJ2020ecmlpkdd,
+    bibtex_show="true",
+    abbr="ECML-PKDD",
+    arxiv="1901.08350",
+    title="On Local Optimizers of Acquisition Functions in {Bayesian} Optimization",
+    author="Jungtaek Kim and Seungjin Choi",
+    booktitle=ecmlpkdd,
+    pages="675--690",
+    year=2020,
+    address=venue-virtual
+}
+
 @inproceedings{LeeJ2020neurips,
     bibtex_show="true",
     abbr="NeurIPS",
@@ -160,6 +176,26 @@
     booktitle=neurips,
     volume=33,
     pages="6606--6615",
+    year=2020,
+    address=venue-neurips-2020
+}
+
+@inproceedings{KimJ2020ml4eng,
+    bibtex_show="true",
+    abbr=neuripsw,
+    author="Jungtaek Kim and Hyunsoo Chung and Jinhwi Lee and Minsu Cho and Jaesik Park",
+    title="Combinatorial {3D} Shape Generation via Sequential Assembly",
+    booktitle=neuripsw-ml4eng,
+    year=2020,
+    address=venue-neurips-2020
+}
+
+@inproceedings{LeeJ2020lmca,
+    bibtex_show="true",
+    abbr=neuripsw,
+    title="Fragment Relation Networks for Geometric Shape Assembly",
+    author="Jinhwi Lee* and Jungtaek Kim* and Hyunsoo Chung and Jaesik Park and Minsu Cho",
+    booktitle=neuripsw-lmca,
     year=2020,
     address=venue-neurips-2020
 }
@@ -175,4 +211,17 @@
     number=5,
     pages="857--879",
     year=2021
+}
+
+@inproceedings{ChungH2021neurips,
+    bibtex_show="true",
+    abbr="NeurIPS",
+    arxiv="2110.15481",
+    title="{Brick-by-Brick}: Combinatorial Construction with Deep Reinforcement Learning",
+    author="Hyunsoo Chung* and Jungtaek Kim* and Boris Knyazev and Jinhwi Lee and Graham W. Taylor and Jaesik Park and Minsu Cho",
+    booktitle=neurips,
+    volume=34,
+    pages="5745--5757",
+    year=2021,
+    address=venue-neurips-2021
 }
