@@ -8,7 +8,7 @@ middle_name:
 last_name: Kim
 email: jungtaek.kim@pitt.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Jungtaek Kim's academic profile
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -137,17 +137,17 @@ related_blog_posts:
 # Follow instructions on https://giscus.app/ to setup for your repo to fill out
 # the information below.
 giscus:
-  repo: alshedivat/al-folio      # <your-github-user-name>/<your-github-repo-name>
-  repo_id: MDEwOlJlcG9zaXRvcnk2MDAyNDM2NQ==
-  category: Comments             # name of the category under which discussions will be created
-  category_id: DIC_kwDOA5PmLc4CTBt6
-  mapping: title                 # identify discussions by post title
-  strict: 1                      # use strict identification mode
-  reactions_enabled: 1           # enable (1) or disable (0) emoji reactions
-  input_position: bottom         # whether to display input form below (bottom) or above (top) the comments
-  theme: preferred_color_scheme  # name of the color scheme (preferred works well with al-folio light/dark mode)
-  emit_metadata: 0
-  lang: en
+  repo:
+  repo_id:
+  category:
+  category_id:
+  mapping:
+  strict:
+  reactions_enabled:
+  input_position:
+  theme:
+  emit_metadata:
+  lang:
 
 # Disqus comments (DEPRECATED)
 disqus_shortname: al-folio # put your disqus shortname
@@ -250,18 +250,18 @@ jekyll-minifier:
 # -----------------------------------------------------------------------------
 
 jekyll-archives:
-  enabled: [year, tags, categories] # enables year, tag and category archives (remove if you need to disable one of them).
+  enabled:
   layouts:
-    year: archive-year
-    tag: archive-tag
-    category: archive-category
+    year:
+    tag:
+    category:
   permalinks:
-    year: '/blog/:year/'
-    tag: '/blog/tag/:name/'
-    category: '/blog/category/:name/'
+    year:
+    tag:
+    category:
 
-display_tags: ['formatting', 'images', 'links', 'math', 'code'] # these tags will be displayed on the front page of your blog
-display_categories: ['blockquotes'] # these categories will be displayed on the front page of your blog
+display_tags:
+display_categories:
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar
