@@ -2,8 +2,7 @@
 layout: page
 title: BayesO
 description:
-img: assets/img/12.jpg
+img: assets/img/ei.gif
 importance: 1
-category:
 redirect: https://bayeso.org
 ---
