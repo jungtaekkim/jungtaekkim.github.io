@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My paper is published in <a href="https://joss.theoj.org" target="_blank">the Journal of Open Source Software</a>.
+My paper was published in <a href="https://joss.theoj.org" target="_blank">the Journal of Open Source Software</a>.
