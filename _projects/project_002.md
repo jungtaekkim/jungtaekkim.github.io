@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Nanophotonic Structures
+title: Datasets and Benchmarks for Nanophotonic Structure and Parametric Design Simulations
 description:
 img: assets/img/nanophotonic.png
 importance: 2
