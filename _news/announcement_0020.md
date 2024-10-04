@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My collaborative work "<a href="" target="_blank">Exploiting Preferences in Loss Functions for Sequential Recommendation via Weak Transitivity</a>" has been accepted at <a href="https://cikm2024.org" target="_blank">CIKM-2024</a>.
+My collaborative work "<a href="https://arxiv.org/abs/2408.00326" target="_blank">Exploiting Preferences in Loss Functions for Sequential Recommendation via Weak Transitivity</a>" has been accepted at <a href="https://cikm2024.org" target="_blank">CIKM-2024</a>.

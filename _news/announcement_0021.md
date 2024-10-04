@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My paper "<a href="" target="_blank">Budget-Aware Sequential Brick Assembly with Efficient Constraint Satisfaction</a>" has been accepted at <a href="https://jmlr.org/tmlr/" target="_blank">TMLR</a>.
+My paper "<a href="https://arxiv.org/abs/2210.01021" target="_blank">Budget-Aware Sequential Brick Assembly with Efficient Constraint Satisfaction</a>" has been accepted at <a href="https://jmlr.org/tmlr/" target="_blank">TMLR</a>.
