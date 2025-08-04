@@ -1,6 +1,7 @@
 github_repos:
   - jungtaekkim/bayeso
   - jungtaekkim/bayeso-benchmarks
+  - jungtaekkim/bayeso-metrics
   - jungtaekkim/batch-bayeso
   - POSTECH-CVLab/Combinatorial-3D-Shape-Generation
   - POSTECH-CVLab/Geometric-Primitives
@@ -11,3 +12,4 @@ github_repos:
   - jungtaekkim/error-free-differentiable-swap-functions
   - jungtaekkim/Multi-BOWS
   - jungtaekkim/LOSAN-LOFAV
+  - jungtaekkim/DRE-BO-SSL
