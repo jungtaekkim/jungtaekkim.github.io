@@ -57,6 +57,7 @@ horizontal: true
 {%- endif -%}
 </div>
 
+{% if False %}
 # GitHub Repositories
 
 {% if site.data.repositories.github_repos %}
@@ -65,4 +66,5 @@ horizontal: true
     {% include repository/repo.html repository=repo %}
   {% endfor %}
 </div>
+{% endif %}
 {% endif %}
