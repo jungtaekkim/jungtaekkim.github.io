@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-My collaborative paper "<a href="" target="_blank">GP-4DGS: Probabilistic Analysis of 4D Gaussian Splattings for Monocular Video Reconstruction via Variational Gaussian Processes</a>" with <a href="https://mjmjeong.github.io" target="_blank">Mijeong Kim</a> and Prof. Bohyung Han has been accepted at <a href="https://cvpr.thecvf.com/Conferences/2026" target="_blank">CVPR-2026</a>.
+My collaborative paper "<a href="" target="_blank">GP-4DGS: Probabilistic Analysis of 4D Gaussian Splattings for Monocular Video Reconstruction via Variational Gaussian Processes</a>" with <a href="https://mjmjeong.github.io" target="_blank">Mijeong Kim</a> and Prof. <a href="https://cv.snu.ac.kr/index.php/~bhhan/" target="_blank">Bohyung Han</a> has been accepted at <a href="https://cvpr.thecvf.com/Conferences/2026" target="_blank">CVPR-2026</a>.
