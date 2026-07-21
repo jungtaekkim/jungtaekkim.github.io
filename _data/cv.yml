@@ -2,19 +2,19 @@
   type: time_table
   contents:
     - title: Ph.D. in Computer Science and Engineering
-      institution: POSTECH, Pohang, Republic of Korea
+      institution: POSTECH, Pohang, South Korea
       year: 2022
       description:
         - "Supervisor: <a href='http://mlg.postech.ac.kr/~seungjin/' target='_blank'>Prof. Seungjin Choi</a> and <a href='http://cvlab.postech.ac.kr/~mcho/' target='_blank'>Prof. Minsu Cho</a>"
         - "Dissertation: Efficient Bayesian Optimization: Algorithms, Approximation, and Regret Analysis"
 
     - title: B.S. in Mechanical Engineering & Computer Science and Engineering
-      institution: POSTECH, Pohang, Republic of Korea
+      institution: POSTECH, Pohang, South Korea
       year: 2015
       description:
 
     - title: High School Graduate
-      institution: Hansung Science High School, Seoul, Republic of Korea
+      institution: Hansung Science High School, Seoul, South Korea
       year: 2010
       description:
 
@@ -32,7 +32,7 @@
       description:
 
     - title: Postdoctoral Researcher
-      institution: POSTECH, Pohang, Republic of Korea
+      institution: POSTECH, Pohang, South Korea
       year: Feb 2022 - Jun 2022
       description:
 
@@ -55,12 +55,12 @@
         - SigOpt has been acquired by Intel.
 
     - title: Research Intern
-      institution: Samsung Electronics, Hwaseong, Republic of Korea
+      institution: Samsung Electronics, Hwaseong, South Korea
       year: Jan 2017 - Jan 2017
       description:
 
     - title: Research Intern
-      institution: Samsung Electronics, Hwaseong, Republic of Korea
+      institution: Samsung Electronics, Hwaseong, South Korea
       year: Aug 2016 - Aug 2016
       description:
 
@@ -78,9 +78,9 @@
     - year: Jun 24, 2016
       value: "3rd place in AutoML5 phase of AutoML Challenge"
     - year: Jul 03, 2014
-      value: "Software Maestro (organized by Ministry of Science, ICT and Future Planning, Republic of Korea & National IT Promotion Agency, Republic of Korea)"
+      value: "Software Maestro (organized by Ministry of Science, ICT and Future Planning, South Korea & National IT Promotion Agency, South Korea)"
     - year: Mar 02, 2010
-      value: "Presidential Science Scholarship (awarded by the President of the Republic of Korea)"
+      value: "Presidential Science Scholarship (awarded by the President of South Korea)"
 
 - title: Teaching - Course
   type: map
