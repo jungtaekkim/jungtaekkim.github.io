@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /arkansas-mlg/
-title: Arkansas Machine Learning Group
+title: Group
 description:
 nav: true
 nav_order: 4

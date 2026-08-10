@@ -2,23 +2,22 @@
 layout: about
 title: About
 permalink: /
-subtitle: Research Associate @ the University of Wisconsin&ndash;Madison
+subtitle: Assistant Professor @ the University of Arkansas
 
 profile:
   align: right
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>1550 Engineering Dr</p>
-    <p>Madison, WI 53706</p>
+    <p>Fayetteville, AR 72701</p>
     <p>United States</p>
 
 news: true
 social: true
 ---
 
-Jungtaek Kim is a research associate at the University of Wisconsin&ndash;Madison, working with Prof. Kangwook Lee.
+Jungtaek Kim is an assistant professor at the University of Arkansas.
 
 He received a B.S. in Mechanical Engineering and Computer Science and Engineering from POSTECH, and a Ph.D. in Computer Science and Engineering from POSTECH, under the supervision of Prof. Seungjin Choi and Prof. Minsu Cho.
 
-His main research interests are statistical machine learning, Bayesian optimization, and large language models.
+His main research interests are statistical machine learning, Bayesian optimization, large language models, and artificial intelligence for scientific discovery.
