@@ -307,6 +307,17 @@ blockquote {
   .contact-icons {
     font-size: 4rem;
 
+    .x-twitter-icon {
+      display: inline-block;
+      width: 0.875em;
+      height: 0.875em;
+      vertical-align: -0.05em;
+      background-color: var(--global-text-color);
+      -webkit-mask: url("../img/x-twitter.svg") no-repeat center / contain;
+      mask: url("../img/x-twitter.svg") no-repeat center / contain;
+      transition: background-color 0.2s ease-in-out;
+    }
+
     a {
       i::before {
         color: var(--global-text-color);
@@ -316,6 +327,10 @@ blockquote {
       &:hover {
         i::before {
           color: var(--global-theme-color);
+        }
+
+        .x-twitter-icon {
+          background-color: var(--global-theme-color);
         }
       }
     }
