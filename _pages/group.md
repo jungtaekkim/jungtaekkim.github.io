@@ -1,8 +1,8 @@
 ---
 layout: page
 permalink: /arkansas-mlg/
-title: Group
-description: Materials for courses you taught. Replace this text with your description.
+title: Arkansas Machine Learning Group
+description:
 nav: true
 nav_order: 4
 ---
