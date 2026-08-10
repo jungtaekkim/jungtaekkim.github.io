@@ -369,12 +369,25 @@ blockquote {
 .social .contact-icons {
   font-size: 4rem;
 }
+.social .contact-icons .x-twitter-icon {
+  display: inline-block;
+  width: 0.875em;
+  height: 0.875em;
+  vertical-align: -0.05em;
+  background-color: var(--global-text-color);
+  -webkit-mask: url("../img/x-twitter.svg") no-repeat center/contain;
+  mask: url("../img/x-twitter.svg") no-repeat center/contain;
+  transition: background-color 0.2s ease-in-out;
+}
 .social .contact-icons a i::before {
   color: var(--global-text-color);
   transition-property: all 0.2s ease-in-out;
 }
 .social .contact-icons a:hover i::before {
   color: var(--global-theme-color);
+}
+.social .contact-icons a:hover .x-twitter-icon {
+  background-color: var(--global-theme-color);
 }
 .social .contact-note {
   font-size: 0.8rem;
