@@ -10,7 +10,6 @@ let toggleTheme = (theme) => {
 
 let setTheme = (theme) => {
   transTheme();
-  setHighlight(theme);
   setGiscusTheme(theme);
 
   if (theme) {
@@ -38,16 +37,6 @@ let setTheme = (theme) => {
           "--global-bg-color"
         ) + "ee", // + 'ee' for trasparency.
     });
-  }
-};
-
-let setHighlight = (theme) => {
-  if (theme == "dark") {
-    document.getElementById("highlight_theme_light").media = "none";
-    document.getElementById("highlight_theme_dark").media = "";
-  } else {
-    document.getElementById("highlight_theme_dark").media = "none";
-    document.getElementById("highlight_theme_light").media = "";
   }
 };
 
