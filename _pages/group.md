@@ -8,7 +8,7 @@ nav_order: 4
 ---
 
 <div class="text-center mb-4">
-  <img src="{{ '/assets/img/amlg_logo.png' | relative_url }}" class="img-fluid" width="360" height="360" alt="Arkansas Machine Learning Group logo">
+  <img src="{{ '/assets/img/amlg_logo-transparent.png' | relative_url }}" class="amlg-logo img-fluid" width="360" height="360" alt="Arkansas Machine Learning Group logo">
 </div>
 
 Arkansas Machine Learning Group
