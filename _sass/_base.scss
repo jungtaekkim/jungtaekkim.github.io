@@ -185,20 +185,9 @@ html[data-theme='dark'] .amlg-logo {
 }
 
 .amlg-logo-wrap {
-  position: relative;
   display: grid;
   place-items: center;
   min-height: 270px;
-
-  &::before {
-    position: absolute;
-    z-index: -1;
-    width: 78%;
-    aspect-ratio: 1;
-    border-radius: 50%;
-    background: radial-gradient(circle, var(--amlg-red-soft), transparent 70%);
-    content: '';
-  }
 
   img {
     width: min(100%, 300px);
