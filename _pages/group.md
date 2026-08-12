@@ -2,7 +2,7 @@
 layout: page
 permalink: /arkansas-mlg/
 title: Group
-description: Machine learning for adaptive decision-making in complex systems.
+description:
 nav: true
 nav_order: 4
 ---
@@ -140,7 +140,6 @@ nav_order: 4
       <h2 id="amlg-connect-title">Build adaptive decision systems with us.</h2>
       <p>Prospective students should send a CV and a short research statement to <a href="mailto:arkansas.mlg+application@gmail.com">arkansas.mlg+application@gmail.com</a>. We also welcome conversations with research collaborators working across machine learning, science, engineering, and operations.</p>
     </div>
-    <a class="amlg-button" href="mailto:arkansas.mlg+application@gmail.com?subject=Arkansas%20MLG%20Application">Apply to the group <span aria-hidden="true">→</span></a>
   </section>
 
 </div>
