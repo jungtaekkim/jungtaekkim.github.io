@@ -16,9 +16,8 @@ nav_order: 4
       </div>
       <div class="amlg-intro-copy">
         <p class="amlg-kicker">Arkansas Machine Learning Group</p>
-        <h2 id="amlg-intro-title">Learning to decide<br>in complex worlds.</h2>
-        <p class="amlg-lead">The Arkansas Machine Learning Group develops machine learning methods for adaptive decision-making in complex systems. Our research focuses on conventional sequential decision-making processes and sequential decision-making, search, exploration, and planning for language models, and artificial intelligence for scientific and operational decision-making.</p>
-        <p>We are especially interested in systems that learn efficiently from limited feedback, reason over structured spaces, and support reliable decisions in science, engineering, and operations.</p>
+        <h2 id="amlg-intro-title">Learning to decide in complex worlds.</h2>
+        <p class="amlg-lead">The Arkansas Machine Learning Group develops machine learning methods for adaptive decision-making in complex systems. Our research focuses on sequential decision-making processes, search, exploration, and planning for language models, and artificial intelligence for scientific and operational decision-making.</p>
       </div>
     </div>
 
