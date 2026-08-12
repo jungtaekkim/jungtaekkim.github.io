@@ -292,7 +292,7 @@ html[data-theme=dark] .amlg-logo {
 .amlg-kicker {
   margin: 0 0 0.65rem;
   color: var(--amlg-red);
-  font-size: 0.76rem;
+  font-size: clamp(0.9rem, 2vw, 1.05rem);
   font-weight: 750;
   letter-spacing: 0.13em;
   text-transform: uppercase;
