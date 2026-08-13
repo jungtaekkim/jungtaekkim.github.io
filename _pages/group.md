@@ -140,11 +140,6 @@ nav_order: 4
 
     <div class="amlg-member-grid">
 
-      <section class="amlg-member-group" aria-labelledby="amlg-phd-title">
-        <h3 id="amlg-phd-title">To be announced.</h3>
-      </section>
-
-      <!--
       <section class="amlg-member-group" aria-labelledby="amlg-postdocs-title">
         <h3 id="amlg-postdocs-title">Postdocs</h3>
         <p class="amlg-member-empty">To be announced.</p>
@@ -155,39 +150,30 @@ nav_order: 4
         </article>
         -->
       </section>
-      -->
 
-      <!--
       <section class="amlg-member-group" aria-labelledby="amlg-phd-title">
         <h3 id="amlg-phd-title">PhD Students</h3>
         <p class="amlg-member-empty">To be announced.</p>
         <!-- Add .amlg-member entries here. -->
       </section>
-      -->
 
-      <!--
       <section class="amlg-member-group" aria-labelledby="amlg-masters-title">
         <h3 id="amlg-masters-title">Master's Students</h3>
         <p class="amlg-member-empty">To be announced.</p>
         <!-- Add .amlg-member entries here. -->
       </section>
-      -->
 
-      <!--
       <section class="amlg-member-group" aria-labelledby="amlg-undergraduates-title">
         <h3 id="amlg-undergraduates-title">Undergraduate Students</h3>
         <p class="amlg-member-empty">To be announced.</p>
         <!-- Add .amlg-member entries here. -->
       </section>
-      -->
 
-      <!--
       <section class="amlg-member-group" aria-labelledby="amlg-visiting-title">
         <h3 id="amlg-visiting-title">Visiting Researchers</h3>
         <p class="amlg-member-empty">To be announced.</p>
         <!-- Add .amlg-member entries here. -->
       </section>
-      -->
 
     </div>
   </section>
