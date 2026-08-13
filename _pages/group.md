@@ -28,24 +28,6 @@ nav_order: 4
     <p>Across these areas, we ask a common question: how can a learning system use scarce feedback to choose what to try, where to search, and how to act next?</p>
   </section>
 
-  <div class="amlg-throughline" aria-label="The group's research throughline: learn, search, and decide">
-    <div>
-      <span>01</span>
-      <strong>Learn</strong>
-      <p>Use limited feedback efficiently.</p>
-    </div>
-    <div>
-      <span>02</span>
-      <strong>Search</strong>
-      <p>Navigate structured possibilities.</p>
-    </div>
-    <div>
-      <span>03</span>
-      <strong>Decide</strong>
-      <p>Act reliably under uncertainty.</p>
-    </div>
-  </div>
-
   <section class="amlg-area" aria-labelledby="amlg-bo-title">
     <div class="amlg-area-copy">
       <span class="amlg-index" aria-hidden="true">01</span>

@@ -234,65 +234,6 @@ html[data-theme='dark'] .amlg-logo {
   }
 }
 
-.amlg-throughline {
-  display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 1px;
-  overflow: hidden;
-  margin-bottom: 1.5rem;
-  border: 1px solid var(--amlg-line);
-  border-radius: 1rem;
-  background: var(--amlg-line);
-
-  > div {
-    position: relative;
-    min-height: 132px;
-    padding: 1.2rem;
-    background: var(--amlg-surface);
-
-    &:not(:last-child)::after {
-      position: absolute;
-      z-index: 1;
-      top: 50%;
-      right: -0.72rem;
-      display: grid;
-      place-items: center;
-      width: 1.45rem;
-      height: 1.45rem;
-      border: 1px solid var(--amlg-line);
-      border-radius: 50%;
-      background: var(--amlg-surface-strong);
-      color: var(--amlg-red);
-      content: '→';
-      font-size: 0.78rem;
-      transform: translateY(-50%);
-    }
-  }
-
-  span {
-    display: block;
-    margin-bottom: 0.75rem;
-    color: var(--amlg-red);
-    font-size: 0.67rem;
-    font-weight: 760;
-    letter-spacing: 0.12em;
-  }
-
-  strong {
-    display: block;
-    margin-bottom: 0.35rem;
-    color: var(--global-text-color);
-    font-size: 1.05rem;
-  }
-
-  p {
-    margin: 0;
-    color: var(--amlg-muted);
-    font-size: 0.78rem;
-    line-height: 1.5;
-  }
-}
-
 .amlg-area {
   margin-top: 1rem;
   padding: clamp(1.45rem, 4vw, 2.25rem);
@@ -406,7 +347,7 @@ html[data-theme='dark'] .amlg-logo {
 
 .amlg-member-grid {
   display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-columns: minmax(0, 1fr);
   gap: 0.85rem;
 }
 
@@ -474,29 +415,9 @@ html[data-theme='dark'] .amlg-page {
       max-width: 230px;
     }
   }
-
-  .amlg-member-grid {
-    grid-template-columns: 1fr;
-  }
 }
 
 @media (max-width: 460px) {
-  .amlg-throughline {
-    grid-template-columns: 1fr;
-
-    > div {
-      min-height: 0;
-
-      &:not(:last-child)::after {
-        top: auto;
-        right: 1rem;
-        bottom: -0.72rem;
-        content: '↓';
-        transform: none;
-      }
-    }
-  }
-
   .amlg-examples li {
     grid-template-columns: 1fr;
     gap: 0.15rem;
