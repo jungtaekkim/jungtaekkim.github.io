@@ -224,7 +224,6 @@ html[data-theme='dark'] .amlg-logo {
 }
 
 .amlg-section-heading {
-  max-width: 610px;
   margin: clamp(4rem, 10vw, 7rem) 0 2.25rem;
 
   > p:last-child {
@@ -440,15 +439,7 @@ html[data-theme='dark'] .amlg-logo {
   border-radius: 1rem;
   background: #18181b;
 
-  h2 {
-    margin: 0 0 0.7rem;
-    color: #fff;
-    font-size: clamp(1.55rem, 4vw, 2.2rem);
-    letter-spacing: -0.035em;
-  }
-
   p:not(.amlg-kicker) {
-    max-width: 520px;
     margin: 0;
     color: rgba(255, 255, 255, 0.65);
     line-height: 1.6;
