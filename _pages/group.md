@@ -133,6 +133,49 @@ nav_order: 4
     </div>
   </section>
 
+  <section class="amlg-members" aria-labelledby="amlg-members-title">
+    <div class="amlg-section-heading">
+      <h2 id="amlg-members-title">Members</h2>
+    </div>
+
+    <div class="amlg-member-grid">
+      <section class="amlg-member-group" aria-labelledby="amlg-postdocs-title">
+        <h3 id="amlg-postdocs-title">Postdocs</h3>
+        <p class="amlg-member-empty">To be announced.</p>
+        <!--
+        <article class="amlg-member">
+          <h4>Member Name</h4>
+          <p>Research interests</p>
+        </article>
+        -->
+      </section>
+
+      <section class="amlg-member-group" aria-labelledby="amlg-phd-title">
+        <h3 id="amlg-phd-title">PhD Students</h3>
+        <p class="amlg-member-empty">To be announced.</p>
+        <!-- Add .amlg-member entries here. -->
+      </section>
+
+      <section class="amlg-member-group" aria-labelledby="amlg-masters-title">
+        <h3 id="amlg-masters-title">Master's Students</h3>
+        <p class="amlg-member-empty">To be announced.</p>
+        <!-- Add .amlg-member entries here. -->
+      </section>
+
+      <section class="amlg-member-group" aria-labelledby="amlg-undergraduates-title">
+        <h3 id="amlg-undergraduates-title">Undergraduate Students</h3>
+        <p class="amlg-member-empty">To be announced.</p>
+        <!-- Add .amlg-member entries here. -->
+      </section>
+
+      <section class="amlg-member-group" aria-labelledby="amlg-visiting-title">
+        <h3 id="amlg-visiting-title">Visiting Researchers</h3>
+        <p class="amlg-member-empty">To be announced.</p>
+        <!-- Add .amlg-member entries here. -->
+      </section>
+    </div>
+  </section>
+
   <section class="amlg-connect" aria-labelledby="amlg-connect-title">
     <div>
       <p class="amlg-kicker">Join the group</p>
