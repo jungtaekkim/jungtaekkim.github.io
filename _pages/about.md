@@ -9,6 +9,7 @@ profile:
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   address: >
+    <p>800 W Dickson St</p>
     <p>Fayetteville, AR 72701</p>
     <p>United States</p>
 
