@@ -90,6 +90,8 @@
 - title: Teaching - Course
   type: map
   contents:
+    - name: Fall 2026
+      value: "[CSCE 46103/CSCE 56103] Artificial Intelligence @ University of Arkansas"
     - name: Spring 2022
       value: "[CSED490X] Recent Trends in Machine Learning: A Large-Scale Perspective @ POSTECH"
 
