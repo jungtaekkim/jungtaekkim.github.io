@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Assistant Professor @ the University of Arkansas
+subtitle: Assistant Professor @ University of Arkansas
 
 profile:
   align: right
