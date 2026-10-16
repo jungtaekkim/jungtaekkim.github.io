@@ -222,6 +222,9 @@ blockquote {
 .profile {
   width: 100%;
 }
+.profile img.profile-image-flipped {
+  transform: scaleX(-1);
+}
 .profile .address {
   margin-bottom: 5px;
   margin-top: 5px;
