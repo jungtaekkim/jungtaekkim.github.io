@@ -23,6 +23,10 @@ layout: default
                 {%- assign profile_image_class = "img-fluid z-depth-1 rounded" -%}
               {% endif %}
 
+              {% if page.profile.image_flip_horizontal %}
+                {%- assign profile_image_class = profile_image_class | append: " profile-image-flipped" -%}
+              {% endif %}
+
               {% include figure.html
               path=profile_image_path
               class=profile_image_class

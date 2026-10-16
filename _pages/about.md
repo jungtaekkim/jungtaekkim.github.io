@@ -8,6 +8,7 @@ profile:
   align: right
   image: my_pic.jpg
   image_circular: false # crops the image to make it circular
+  image_flip_horizontal: true
   address: >
     <p>800 W Dickson St</p>
     <p>Fayetteville, AR 72701</p>
