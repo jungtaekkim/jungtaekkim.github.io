@@ -6,7 +6,7 @@ subtitle: Assistant Professor @ University of Arkansas
 
 profile:
   align: right
-  image: prof_pic.png
+  image: my_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>800 W Dickson St</p>
