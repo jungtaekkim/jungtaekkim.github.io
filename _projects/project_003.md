@@ -3,6 +3,6 @@ layout: page
 title: JaxLayerLumos
 description:
 img: assets/img/layerlumos.png
-importance: 3
+importance: 4
 redirect: https://jaxlayerlumos.github.io
 ---
